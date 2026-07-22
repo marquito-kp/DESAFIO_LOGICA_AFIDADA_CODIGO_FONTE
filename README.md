@@ -14,3 +14,5 @@ No primeiro dia, o desafio foi manual, onde tivemos que redigir 3 algortimos, se
 No segundo dia, já tivemos que listar quais dados encontravamos em um documento de identidade, por exemplo, e classifica-los.
 
 Além disso, redigimos nosso primeiro código, que realiza o cálculo do IMC (Indice de Massa Corporal) que é cálculo através da divisão do Peso pela altura ao quadrado.
+
+O arquivo está denominado "desafio04_ICMS.js".
